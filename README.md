@@ -1,0 +1,2 @@
+# javatraining
+Some Java exercises
